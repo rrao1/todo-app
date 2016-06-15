@@ -37,7 +37,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Downloading the files took a very long time and I had some trouble figuring out how to push to Github.
 
 ## License
